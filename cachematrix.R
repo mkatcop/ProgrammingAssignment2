@@ -1,4 +1,5 @@
 ## This function creates a special "matrix" object that can cache its inverse.
+## R Programming Week 3 Programming Assignment 2: Lexical Scoping
 
 makeCacheMatrix <- function(x = matrix()) {
   
